@@ -123,7 +123,7 @@ export const Todos = () => {
             return (
               <li
                 key={id}
-                className="grid grid-cols-[1fr_auto_auto_auto] items-center px-6 py-4 bg-[#3d4f5c] rounded-3xl w-full max-w-xl gap-5 text-lg md:text-2xl"
+                className="grid grid-cols-[1fr_auto_auto_auto] items-center px-6 py-4 bg-[#3d4f5c] rounded-3xl w-full max-w-xl gap-5 text-lg md:text-2xl hover:scale-105 transition-all duration-500"
               >
                 <span className={`p-2 ${checked ? "line-through" : ""}`}>
                   {content}
@@ -167,3 +167,4 @@ export const Todos = () => {
     </section>
   );
 };
+
