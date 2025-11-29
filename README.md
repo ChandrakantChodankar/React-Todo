@@ -17,8 +17,11 @@ A modern, responsive todo list application built with React that helps you organ
 ---
 
 ## 📸 Screenshots
+<img width="2557" height="1196" alt="Screenshot 2025-11-28 165037" src="https://github.com/user-attachments/assets/52ba9f39-0052-4f65-b191-1cfb650934b4" />
+<img width="2559" height="1192" alt="Screenshot 2025-11-29 155934" src="https://github.com/user-attachments/assets/555517b0-5080-483b-b7dc-82cb0972b38a" />
 
 ---
+
 
 ## 🛠️ Built With
 
